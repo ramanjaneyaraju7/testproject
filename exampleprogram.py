@@ -1,4 +1,4 @@
-c=0
-while c<=10:
+z=0
+while z<=10:
     print('welcome to India')
-    c+=1
+    z+=1
